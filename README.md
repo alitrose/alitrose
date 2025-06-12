@@ -7,8 +7,7 @@
 ---
 
 ### 👩‍💻 About Me
-
-- 🏫 **Student ID:** URK24CS9042  
+  
 - 🎓 Pursuing **B.Tech in CSE with specialization in AI & ML**  
 - 💡 I love solving problems, building projects, and learning new tech  
 - 📍 From Kerala | Studying in Coimbatore  
